@@ -38,7 +38,7 @@ The agent actor is a normal actor with a mesh and an AgentAI component. This com
 ## Original project <a name="original"></a>
 The original project can be found [here](https://github.com/WouterServaes/FlowfieldResearchProject). That was made in a private engine using c++.
 ## Conclusion <a name="conclusion"></a>
-The project performs well when the agents are spawning slowly. It freezes for some time when they all spawn at once on random positions. I learned a lot from this.
+The project performs well when the agents are spawning slowly. It freezes for some time when they all spawn at once on random positions. The project is missing some handy features like spawning, moving and selecting agents, and placing and moving obstacles. 
 
 ## End <a name="end"></a>
 Connect with me on [LinkedIn](https://www.linkedin.com/in/wouterservaes-dae/)!  
