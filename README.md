@@ -16,7 +16,7 @@ View my portfolio [here](https://wouterservaes.myportfolio.com/)!
 - [Conclusion](#conclusion)
 - [End](#end)
 ## Info <a name="info"></a>
-I decided to make a second project surrounding flowfields, this time using a full engine. When I started this project this project Unity seemed like the obvious choice. Development is fast and pretty easy, I have experience with it. In the end, I decided to make it in UE4 using c++. I did this to learn more about the engine and to improve my c++ in UE4. The UI and character controller use blueprints, I exposed some c++ functions to the editor for this reason.
+I decided to make a second project surrounding flowfields, this time using a full engine. When I started this project, Unity seemed like the obvious choice. Development is fast and pretty easy, I have experience with it. In the end, I decided to make it in UE4 using c++. I did this to learn more about the engine and to improve my c++ in UE4. The UI and character controller use blueprints, I exposed some c++ functions to the editor for this reason.
 ![Gif of project](https://github.com/WouterServaes/FlowfieldUE/blob/main/Images/UEFlowfield_Img02.gif) 
 ![Images of project](https://github.com/WouterServaes/FlowfieldUE/blob/main/Images/UEFlowfield_Img03.png) 
 ![Images of project](https://github.com/WouterServaes/FlowfieldUE/blob/main/Images/UEFlowfield_Img01.png) 
